@@ -1,0 +1,14 @@
+{
+  "name": "jphidgets22-electron-react",
+  "version": "1.0.12",
+  "description": "Phidget22 JavaScript Library for react and electron project",
+  "main": "jphidgets22.1.0.0.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phidgets Inc. && Julien Usson",
+  "license": "ISC",
+  "dependencies": {
+    "btoa": "^1.1.2"
+  }
+}
