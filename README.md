@@ -12,7 +12,7 @@ access Phidget devices.
 Examples for each Phidget channel class are available at www.phidgets.com.
 
 ```
-import jPhidget22 from 'phidget22';
+import jPhidget22 from 'jphidgets22-electron-react';
 
 var url = 'ws://localhost:8989/phidgets';
 
